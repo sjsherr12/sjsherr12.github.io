@@ -83,6 +83,14 @@ body {
 	color:#707070;
   }
 
+  .startup-company {
+	margin-bottom: 50px;
+  }
+
+  .startup-company .actions {
+	margin-top: 8px;
+  }
+
 ol, ul {
 	list-style: none;
 }
